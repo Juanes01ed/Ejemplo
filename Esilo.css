@@ -1,0 +1,29 @@
+header{
+    background-color: rgb(80, 140, 140
+    );
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    font-family: Arial,sans-serif;
+}
+
+nav{
+    margin-top: 20px;
+}
+
+a{
+    color: gold;
+    text-decoration: none;
+    font-size: 25px;
+    padding-right: 20px;
+}
+a:hover{
+    color: red;
+}
+h1:hover{
+    color: lightblue;
+}
